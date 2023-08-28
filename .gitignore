@@ -88,6 +88,7 @@ psd
 thumb
 sketch
 
+<<<<<<< HEAD
 # End of https://www.toptal.com/developers/gitignore/api/react,macos,kotlin,java
 
 ### go-coding1 add
@@ -128,3 +129,6 @@ build/
 
 
 ###happyrina add
+=======
+# End of https://www.toptal.com/developers/gitignore/api/react,macos,kotlin,java
+>>>>>>> a40f5f9 (gitignore)

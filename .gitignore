@@ -129,6 +129,9 @@ build/
 
 
 ###happyrina add
+<<<<<<< HEAD
 =======
 # End of https://www.toptal.com/developers/gitignore/api/react,macos,kotlin,java
 >>>>>>> a40f5f9 (gitignore)
+=======
+>>>>>>> origin/feature/ReactSetting

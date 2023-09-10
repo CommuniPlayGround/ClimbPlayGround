@@ -126,6 +126,7 @@ build/
 ### VS Code ###
 .vscode/
 
+*.db
 
 ###happyrina add
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
